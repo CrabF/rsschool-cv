@@ -6,7 +6,6 @@
 
 - **Email:** [dmitry-mazhnik@yandex.ru](mailto:dmitry-mazhnik@yandex.ru)
 - **Telegram:** [@hokrdak](https://t.me/hokrdak)
-- **Discord:** `указать Discord`
 - **GitHub:** [github.com/CrabF](https://github.com/CrabF)
 - **LeetCode:** [leetcode.com/u/crabf](https://leetcode.com/u/crabf/)
 - **Город:** Краснодар
